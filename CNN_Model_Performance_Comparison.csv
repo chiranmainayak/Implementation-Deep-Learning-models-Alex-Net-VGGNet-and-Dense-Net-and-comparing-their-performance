@@ -1,0 +1,4 @@
+Model,Test Accuracy (%),Test Loss,Training Time (sec),Parameters
+AlexNet,57.75,1.1804,40.29,4483146
+VGGNet,9.93,2.3051,90.33,9502730
+DenseNet,19.59,2.6716,291.65,7047754
